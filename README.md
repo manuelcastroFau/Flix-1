@@ -1,39 +1,33 @@
-# HW-01 - *Flix 1*
-
 ** Flix 1** A very simple movie browsing application for iOS.
 
 Submitted by: Manuel Castro
 
 Time spent: 4 hours spent in total
 
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+
+---
+
+## Flix Part 1
+
+
 ## User Stories
 
-The following **required** functionality is complete:
+#### REQUIRED (10pts)
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
 
-* [x] User sees an app icon on the home screen and a styled launch screen.
-* [x] User can view and scroll through a list of movies now playing in theaters.
-* [x] User can view the movie posters in each row.
-
-The following **additional** BONUS features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+#### BONUS
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 - [x] I added the release date to the application
-- [x] Make Flix1 movil responsive to any devices or sizes
 
-## Video Walkthrough
+### App Walkthrough GIF
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/Bhk2Pg1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://i.imgur.com/Bhk2Pg1.gif' title='Video Example' />
-
-[Imgur](https://i.imgur.com/JfUaG8t.gifv)
-
-
-![](https://i.imgur.com/Bhk2Pg1.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="https://i.imgur.com/Bhk2Pg1.gif" width=250><br>
 
 ## Notes
 
