@@ -10,15 +10,15 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User sees an app icon on the home screen and a styled launch screen.
-* [ ] User can view and scroll through a list of movies now playing in theaters.
-* [ ] User can view the movie posters in each row.
+* [x] User sees an app icon on the home screen and a styled launch screen.
+* [x] User can view and scroll through a list of movies now playing in theaters.
+* [x] User can view the movie posters in each row.
 
 The following **additional** BONUS features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 - [x] I added the release date to the application
-- [x] make Flix1 Reponsive to any devices or sizes
+- [x] Make Flix1 movil responsive to any devices or sizes
 
 ## Video Walkthrough
 
