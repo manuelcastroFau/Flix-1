@@ -27,10 +27,17 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         let title =  movie["title"] as! String
         
         let synopsis = movie["overview"] as! String
+        let releaseDate =  movie["release_date"] as! String
+        
+        
         
         //cell.textLabel?.text = title
         cell.titleLabel.text = title
         cell.synopsisLabel.text = synopsis
+        
+        
+        
+        cell.yearLabel.text = "Released: " + releaseDate
         //https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg
         
         let baseURL = "https://image.tmdb.org/t/p/w185"
