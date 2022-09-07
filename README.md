@@ -1,4 +1,4 @@
-** Flix 1** 
+# Flix
 A very simple movie browsing application for iOS.
 
 Submitted by: Manuel Castro
