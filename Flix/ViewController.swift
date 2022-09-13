@@ -87,6 +87,26 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         }
         task.resume()
     }
+    
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // get new view controller using segue.destination
+        // Pass the selected object to the new view controller
+        print("Loading the detail screen here")
+        
+        //find the selecte movie
+        
+        let cell = sender as! UITableViewCell
+        let indexPath = tableView.indexPath(for: cell)!
+        
+        let moview =  movies[indexPath.row]
+        
+        //pass the selected movie to the details view controller
+        let detailsViewcontroller =  segue.destination as! MovieDetailsViewController
+        detailsViewcontroller.movie = moview
+        
+        tableView.deselectRow(at: indexPath, animated: true)
+    }
 
 
 }
