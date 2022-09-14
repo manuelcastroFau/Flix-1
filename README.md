@@ -17,6 +17,8 @@
 
 <img src='https://i.imgur.com/jU8rQom.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![](https://i.imgur.com/jU8rQom.gif)
+
 ### Notes
 Describe any challenges encountered while building the app.
 
